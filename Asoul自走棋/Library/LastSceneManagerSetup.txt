@@ -1,0 +1,21 @@
+sceneSetups:
+- path: "Assets/Scenes/\u8150\u8680.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u68EE\u6797.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u5730\u7262.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u96EA\u5730.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u5F00\u59CB.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
